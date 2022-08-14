@@ -6,4 +6,4 @@
     More coming soon..
 ]]--
 
-loadstring(game:HttpGet("https://github.com/UnfairRoblox91/Veta-Hub/blob/main/Veta/Veta%20Hub.lua"), true)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnfairRoblox91/Veta-Hub/main/Veta/Veta%20Hub.lua", true))()
