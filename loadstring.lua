@@ -1,10 +1,10 @@
 --[[
     Supported games:
-    Tower of hell
-    Build a boat
-    Slap Battles
-    Clicker Simulator
-    More coming soon..
+    [+] Tower of hell
+    [+] Build a boat
+    [+] Slap Battles
+    [+] Clicker Simulator
+    [+] More coming soon..
 
     Changelogs:
     [-] Remove 1 games
